@@ -41,6 +41,7 @@ Die Bewaffnung beeinflusst den Kampfwert. Dabei wird unterschieden zwischen unbe
 | Raketenwerfer*                                               | Schwer bewaffnet |
 | Klauen der Bestie* (Gestaltwandel 3)                         | Schwer Bewaffnet |
 | Vigor 5                                                      | Schwer bewaffnet |
+
 \*Verletzungen gelten als *schwer heilbar*
 
 Waffenlose Angriffe werden beim Ausspielen mit lockerer Hand gegen die Schulter des Gegners geführt. Dazu zählen Angriffe mit Vigor oder Klauen der Bestie.
